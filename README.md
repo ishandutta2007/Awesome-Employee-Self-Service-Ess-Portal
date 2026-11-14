@@ -15,25 +15,30 @@ This repository tracks notable **SaaS platforms** and **open-source projects** f
 Contributions welcome! Open an PR to add/update entries. Keep descriptions factual and link to official sites.
 
 ## Table of Contents
-- [SaaS/Hosted Platforms](#saas-products)
+- [Sector Overview & Market Dynamics](#sector-overview--market-dynamics)
+- [SaaS/Hosted Platforms](#saashosted-platforms)
 - [Open-Source GitHub Projects](#open-source-github-projects)
 - [How to Contribute](#how-to-contribute)
 - [Disclaimer](#disclaimer)
 
+## Sector Overview & Market Dynamics
+
+The global Employee Self-Service (ESS) portal software market is estimated at **$7.0B to $9.8B** (projected to exceed $22B+ by the early 2030s at an ~8.7% CAGR). The market structure is bifurcated: **moderately concentrated** at the enterprise tier dominated by comprehensive HCM suites (like Workday and ADP), yet **highly fragmented** in the SMB/mid-market where dozens of specialized SaaS and self-hosted open-source providers compete with modular, agile tools.
+
 ## SaaS/Hosted Platforms
 
-| Product | Description | Pricing (Starting) | Free Tier / Trial Limits |
-|---------|-------------|-------------------|--------------------------|
-| **[Zoho People](https://www.zoho.com/people/)** | HRIS with employee self-service (web + mobile), leave management, attendance, and document access. **Basic: ¥105/employee/year** includes ESS; **Professional: ¥168** adds workflows and performance. **5 employees free forever** . | Basic: **¥105/employee/year**; Professional: ¥168; Premium: ¥252; Enterprise: ¥378  | **Free**: up to 5 employees; **30-day full-feature trial** . |
-| **[BambooHR](https://www.bamboohr.com/)** | SMB-focused HRIS with self-service, time-off tracking, and document storage. **Core: $10/employee/month**; Pro: $17; Elite: $25. Month-to-month terms available with automatic volume discounts . | Core: **$10/employee/month**; Pro: $17; Elite: $25  | No free tier; demo via sales . |
-| **[Rippling](https://www.rippling.com/)** | Unified HR, payroll, benefits, devices, and apps. **Starting at $8/user/month**; modular pricing means you pay for what you enable. ESS covers profile updates, payslips, and time-off requests . | **$8/user/month** (base)  | No free tier; demo via sales . |
-| **[Gusto](https://gusto.com/)** | Payroll-first HR with employee self-service for pay stubs, tax documents, and benefits. **Month-to-month, cancel anytime**; unlimited payroll runs included. **Contractor Only plan: $35/month + $6/contractor** . | Quote-only (tiered by plan and employee count) | No free tier; demo via sales . |
-| **[ADP Workforce Now](https://www.adp.com/)** | Enterprise HCM with ESS for pay, benefits, and time. **Base fee ~$160/month + ~$4/employee/month** (buyer-reported; no public list pricing). Recruiting module adds $2–4/employee/month . | Base: **~$160/month**; ~$4/employee/month  | No free tier; demo via sales . |
-| **[Paylocity](https://www.paylocity.com/)** | Mid-market HCM with ESS, payroll, and time tracking. **Typical PEPM: mid-teens to low twenties** (200–500 employees). **10–20% discounts common** for multi-year commitments; implementation $5K–$40K depending on size . | Quote-only (mid-teens to low-$20s PEPM) | No free tier; demo via sales . |
-| **[Paychex Flex](https://www.paychex.com/)** | SMB-focused payroll and HR with ESS. **Often 10–15% lower than Paylocity** for comparable scope; annual increases typically 3–5% . | Quote-only (low-to-mid teens PEPM)  | No free tier; demo via sales . |
-| **[Personio](https://www.personio.com/)** | European HRIS with ESS for SMBs. **Core tier: several dollars PEPM**; Professional adds recruiting/payroll. **15–30% discounts achievable** for 100–200 employees with multi-year terms . | Quote-only (Core/Professional/Enterprise) | No free tier; demo via sales . |
-| **[Zenefits](https://www.zenefits.com/)** | SMB HR platform with employee self-service portal, payroll, and benefits. **Starting at $8.00/month/employee** . | **$8.00/month/employee**  | No free tier; demo via sales . |
-| **[Workday HCM](https://www.workday.com/)** | Enterprise HCM with comprehensive ESS. **Priced per Full Service Equivalent (FSE)**—a weighted worker count, not raw headcount. **Escalators uncapped can reach 1–2.5x**; count overages of 8–18% above clean census are common . | Quote-only (FSE-based; enterprise contract) | No free tier; demo via sales . |
+| Product | Scale (Revenue / Valuation) | Description | Pricing (Starting) | Free Tier / Trial Limits |
+|---------|-----------------------------|-------------|-------------------|--------------------------|
+| **[ADP Workforce Now](https://www.adp.com/)** | ~$22.0B Rev / ~$121B MCap | Enterprise HCM with ESS for pay, benefits, and time. Base fee ~$160/month + ~$4/employee/month (buyer-reported). | ~$160/month base + ~$4/employee/month | No free forever plan; 3-month free promotional payroll trial on select small business plans or interactive guided product demo |
+| **[Workday HCM](https://www.workday.com/)** | ~$10.0B Rev / ~$46B MCap | Enterprise HCM with comprehensive ESS, talent, and workforce management. | ~$120 to $185 PEPM (typical core HCM contract baseline; ~$300K/year minimum spend) | No free forever plan; no self-serve free trial; guided enterprise demo via sales |
+| **[Paychex Flex](https://www.paychex.com/)** | ~$6.5B Rev / ~$41B MCap | SMB & mid-market payroll and HR with ESS. | $39/month base + $5/employee/month (Essentials plan) | No free forever plan; no public free trial; customized demo via sales |
+| **[TriNet (Zenefits)](https://www.zenefits.com/)** | ~$4.9B Rev / ~$3.1B MCap | SMB HR platform (acquired by TriNet) with employee self-service portal, payroll, and benefits. | $8.00/employee/month (minimum 5 employees) | No free forever plan; no public self-serve free trial; interactive demo via sales |
+| **[Paylocity](https://www.paylocity.com/)** | ~$1.8B Rev / ~$8.5B MCap | Mid-market HCM with ESS, payroll, and workforce analytics. | ~$15 to $22 PEPM (starting core payroll/HR baseline) | No free forever plan; no self-serve free trial; live walkthrough demo via sales |
+| **[Zoho People](https://www.zoho.com/people/)** | ~$1.4B+ Rev / ~$12B Est. Val | Cloud HRIS with employee self-service (web + mobile), leave management, and attendance. | ₹105/employee/month (~$1.25/employee/month, billed annually) | **Free forever plan**: up to 5 employees; **30-day free trial** with full feature access (no credit card required) |
+| **[Rippling](https://www.rippling.com/)** | ~$1.0B ARR / ~$16.8B Val | Unified workforce platform combining HR, ESS, IT, and finance. | $8.00/user/month (plus custom modular platform fee) | No free forever plan; 6-month free trial for eligible VC-backed startups via Startup Program (standard accounts require sales demo) |
+| **[Gusto](https://gusto.com/)** | ~$1.0B ARR / ~$9.3B Val | Payroll-first HR with employee self-service for pay stubs, W-2s, and benefits. | $40/month base + $6/employee/month (Simple plan; or $35/month + $6/contractor) | No free forever plan; no open self-serve free trial (occasional 30-day promotional waiver via partner links; interactive demo available) |
+| **[Personio](https://www.personio.com/)** | ~$300M+ ARR / ~$8.5B Val | European all-in-one HR software with ESS for SMBs. | €5.00 to €7.60 PEPM (Core package baseline) | No free forever plan; **14-day free trial** with full test environment (no credit card required) |
+| **[BambooHR](https://www.bamboohr.com/)** | ~$300M+ ARR / ~$1.9B Val | SMB-focused HRIS with self-service portal, time-off tracking, and onboarding. | $10.00/employee/month (Core plan baseline) | No free forever plan; **7-day free trial** with full self-serve access (no credit card required) |
 
 ## Open-Source GitHub Projects
 
