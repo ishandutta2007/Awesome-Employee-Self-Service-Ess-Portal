@@ -1,6 +1,6 @@
 # Awesome-Employee-Self-Service-Ess-Portal
 
-# Top Employee Self-Service (ESS) Portal Ecosystem
+## Top Employee Self-Service (ESS) Portal Ecosystem
 
 **Curated List of SaaS Platforms & Open-Source GitHub Projects**  
 *Focused on HRIS Self-Service, Payroll Access & Employee Document Management*  
