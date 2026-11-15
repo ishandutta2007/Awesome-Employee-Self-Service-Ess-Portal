@@ -12,7 +12,7 @@
   <p align="center">
     <a href="https://github.com/ishandutta2007/Awesome-Awesome-Awesome"><img src="https://img.shields.io/badge/Awesome-%E2%9C%94-blueviolet?style=flat-square&logo=github" alt="Awesome"/></a>
     <a href="https://discord.gg/jc4xtF58Ve"><img src="https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white" alt="Discord" /></a>
-    <a href="https://github.com/ishandutta2007/Awesome-Employee-Self-Service-Ess-Portal/stargazers"><img src="https://img.shields.io/github/stars/ishandutta2007/Awesome-Employee-Self-Service-Ess-Portal?style=social&color=white" alt="GitHub stars" /></a>
+    <a href="https://github.com/ishandutta2007/Awesome-Employee-Self-Service-Ess-Portal/stargazers"><img src="https://img.shields.io/github/stars/ishandutta2007/Awesome-Employee-Self-Service-Ess-Portal?style=social&color=white" alt="GitHub_Stars" /></a>
     <a href="https://github.com/ishandutta2007/Awesome-Employee-Self-Service-Ess-Portal/network/members"><img src="https://img.shields.io/github/forks/ishandutta2007/Awesome-Employee-Self-Service-Ess-Portal?style=social&color=white" alt="GitHub forks" /></a>
     <a href="https://github.com/ishandutta2007/Awesome-Employee-Self-Service-Ess-Portal/blob/main/LICENSE"><img src="https://img.shields.io/github/license/ishandutta2007/Awesome-Employee-Self-Service-Ess-Portal?style=flat-square&color=blue" alt="License" /></a>
     <a href="https://github.com/ishandutta2007"><img alt="GitHub followers" src="https://img.shields.io/github/followers/ishandutta2007?label=Follow" /></a>
@@ -69,9 +69,9 @@ The global Employee Self-Service (ESS) portal software market is estimated at **
 
 ## 🔓 Open-Source GitHub Projects
 
-> Sorted by GitHub stars in descending order.
+> Sorted by GitHub_Stars in descending order.
 
-| Project | Star Badge | Tech Stack | Description |
+| Project | Stars_Badge | Tech Stack | Description |
 |:---|:---|:---|:---|
 | **[Frappe HR](https://github.com/frappe/hrms)** | [![Stars](https://img.shields.io/github/stars/frappe/hrms?style=social&color=white)](https://github.com/frappe/hrms/stargazers) | Python, Vue.js, JavaScript | 🚀 **The premier standalone open-source HRMS & Payroll solution with built-in ESS.** Features self-service for leave requests, expense reimbursements, payslip access, shift scheduling, and a mobile check-in app. Integrated directly with ERPNext. |
 | **[Horilla HRMS](https://github.com/horilla/horilla-hr)** | [![Stars](https://img.shields.io/github/stars/horilla/horilla-hr)](https://github.com/horilla/horilla-hr/stargazers) | Python (Django), HTMX, JavaScript | 🎯 **Comprehensive Django-based open-source HRMS with employee self-service.** Includes ESS modules for profile management, time-off applications, attendance tracking, onboarding, recruitment, and asset management. |
@@ -91,7 +91,7 @@ Contributions, suggestions, and corrections are warmly welcomed! 🌟
 
 1. 🍴 **Fork** this repository.
 2. 🌿 Create a descriptive feature branch (`git checkout -b feature/add-new-portal`).
-3. 📝 Update `README.md` following the existing format (include product/repo name, official link, star badge, accurate starting pricing, or self-hosted requirements).
+3. 📝 Update `README.md` following the existing format (include product/repo name, official link, Stars_Badge, accurate starting pricing, or self-hosted requirements).
 4. 💾 Commit your changes (`git commit -m 'Add New-Tool to ESS directory'`).
 5. 🚀 Push to your branch (`git push origin feature/add-new-portal`).
 6. 📬 Submit a **Pull Request** detailing why the tool is a valuable addition to the ecosystem.
